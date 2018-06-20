@@ -12,4 +12,6 @@ First time on Github
 Edited in a Branch 
 
 
+Now is a conflict.
+
 End of File
