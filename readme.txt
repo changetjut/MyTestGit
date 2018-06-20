@@ -13,4 +13,6 @@ Edited in a Branch
 
 Hahahaha
 
+Now is a conflict.
+
 End of File
